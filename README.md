@@ -1,7 +1,7 @@
 <h1>Timer de Pomodoro em Python</h1>
 <p>Projeto em Python criado para aumentar a produtividade e melhorar a gestão do tempo. Baseado na técnica Pomodoro, esse aplicativo permite que os usuários dividam seu trabalho em intervalos de tempo de foco intenso, seguidos por pausas curtas e pausas longas, tudo com o conforto de uma interface simples e amigável construída com a biblioteca tkinter.</p>
 <p>O método Pomodoro é a ferramenta perfeita para quem busca melhorar a produtividade, manter o foco nas tarefas e evitar o esgotamento. Use-o para maximizar seu tempo de trabalho e alcançar seus objetivos com eficiência.</p>
-<p>Este projeto foi desenvolvido com o propósito de aprendizado e aprimoramento das habilidades de programação em Python e interface gráfica com tkinter</p>
+<p>Este projeto foi desenvolvido com o propósito de aprendizado e aprimoramento das habilidades de programação em Python e interface gráfica com tkinter.</p>
 <img src="preview.png">
 <h3>Principais Recursos:</h3>
 <ul>
